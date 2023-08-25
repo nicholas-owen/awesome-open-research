@@ -14,7 +14,7 @@ A collection of open research resources; tools, datasets, publications
 
 ### Indexing of Publications and Search Engines
 
-- [Dimension.ai](https://app.dimension.ai)
+- [Dimension.ai](https://app.dimensions.ai/discover/publication)
 - [Europe PMC](http://europepmc.org/)
 - [Google Scholar](https://scholar.google.com)
 - [MyScienceWork](https://www.mysciencework.com/)
