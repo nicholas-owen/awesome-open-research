@@ -26,7 +26,7 @@ A collection of open research resources; tools, datasets, publications
 - [Semantic Scholar](https://www.semanticscholar.org/)
 - [Spharrho](https://www.sparrho.com/)
 - [Web of Science](https://www.webofscience.com/wos/)
-### Organizations Conferences Communities
+### Organizations, Conferences & Communities
 
 - [BD2K - Big Data to Knowledge at NIH](https://commonfund.nih.gov/bd2k)
 - [Biostars - Bioinformatics Q & A](https://www.biostars.org/)
